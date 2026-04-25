@@ -4,10 +4,6 @@
  */
 package SequentialnSumCounter;
 
-/**
- *
- * @author VoltCat
- */
 public class Count {
     //Atributos
     private int QuantityPairs;
